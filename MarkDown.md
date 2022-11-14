@@ -44,5 +44,5 @@ Je vous rassure, nous sommes toujours bien de très bonnes amies, et je lui fais
 ### TL;DR
 L'amie qui avait peur de moi.
 
-[<<précédent](https://github.com/nathaliegoffette/markdown-challenge)|| NOUR || [suivant>>](https://github.com/Gollumeo/presentation_markdown)
+[<<précédent](https://github.com/nathvda/challenge-markdown)|| NOUR || [suivant>>](https://github.com/Gollumeo/presentation_markdown)
 
