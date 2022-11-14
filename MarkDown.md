@@ -8,9 +8,10 @@
 ##
 
 | Anniversaire | Sexe    | Couleur préférée | Nourriture favorite |
----------------|----------------------------|---------------------|
+|:------------:|:-------:|:----------------:|:-------------------:|
 | 1O août 1997 | Féminin | Bleu azur        | Les frites          |
-Ananas sur pizza :
+
+**Ananas sur pizza :**
 - [ ] Non
 
 ## Passe-temps
@@ -25,6 +26,7 @@ Ananas sur pizza :
   * musculation;
 * jouer aux jeux vidéo.
 
-## Vous pouvez toujours compter sur moi quand vous voulez faire une petite game (pas pendant les cours, bien entendu) ou encore quand vous avez besoin d'une épaule pour pleurer (en échange d'une glace ou d'un petit verre).
+## Vous pouvez toujours compter sur moi quand...
+Vous voulez faire une petite game (pas pendant les cours, bien entendu) ou encore quand vous avez besoin d'une épaule pour pleurer (en échange d'une glace ou d'un petit verre).
 **Ce que j'apporte au groupe :** j'aime organiser les choses, je suis une dingue de synthèses, et j'aime expliquer ce que j'ai appris.
 
